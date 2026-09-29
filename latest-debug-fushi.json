@@ -1,47 +1,20 @@
 {
   "schemaVersion": 1,
-  "version": "2.7.0-debug.14929",
-  "tag": "v2.7.0-debug.14929+cc1c858",
+  "version": "2.8.0-debug.16166",
+  "tag": "v2.8.0-debug.16166+03eb0f9",
   "channel": "debug",
   "prerelease": true,
-  "releaseSequence": 14929,
-  "notes": "Automated desktop debug-channel build from develop @ cc1c858. Push releases are always prerelease and never Latest.",
+  "releaseSequence": 16166,
+  "notes": "Automated desktop debug-channel build from develop @ 03eb0f9. Push releases are always prerelease and never Latest.",
   "assets": [
     {
-      "name": "fushi-2.7.0-debug.14929-cc1c858-debug.apk",
-      "browser_download_url": "https://github.com/hajisensai/Fushi/releases/download/fushi-debug-rolling/fushi-2.7.0-debug.14929-cc1c858-debug.apk",
-      "releaseSequence": 14929,
-      "tag": "v2.7.0-debug.14929+cc1c858",
-      "version": "2.7.0-debug.14929",
-      "size": 272089080,
-      "sha256": "ccc258bcd679b2594049530897e840c4e906242bb56e936f05328524db969ca0"
-    },
-    {
-      "name": "fushi-2.7.0-debug.14929-ios.ipa",
-      "browser_download_url": "https://github.com/hajisensai/Fushi/releases/download/fushi-debug-rolling/fushi-2.7.0-debug.14929-ios.ipa",
-      "releaseSequence": 14929,
-      "tag": "v2.7.0-debug.14929+cc1c858",
-      "version": "2.7.0-debug.14929",
-      "size": 59865766,
-      "sha256": "b7be7af1331f5c1add26fe3322c723cf4124977824b9ff9b384bb79ac4ec994d"
-    },
-    {
-      "name": "fushi-2.7.0-debug.14929-macos.zip",
-      "browser_download_url": "https://github.com/hajisensai/Fushi/releases/download/fushi-debug-rolling/fushi-2.7.0-debug.14929-macos.zip",
-      "releaseSequence": 14929,
-      "tag": "v2.7.0-debug.14929+cc1c858",
-      "version": "2.7.0-debug.14929",
-      "size": 337469711,
-      "sha256": "fef2a5dea889d2ae18b5231a25210d977a5800edd9d2475dad16cadae9e58299"
-    },
-    {
-      "name": "fushi-2.7.0-debug.14929-windows-setup.exe",
-      "browser_download_url": "https://github.com/hajisensai/Fushi/releases/download/fushi-debug-rolling/fushi-2.7.0-debug.14929-windows-setup.exe",
-      "releaseSequence": 14929,
-      "tag": "v2.7.0-debug.14929+cc1c858",
-      "version": "2.7.0-debug.14929",
-      "size": 265683888,
-      "sha256": "319e9b7eafc3bf996e047f38e6c4486caa000e68f3540c8ffc2799c7bddbf7a9"
+      "name": "fushi-2.8.0-debug.16166-windows-setup.exe",
+      "browser_download_url": "https://github.com/hcrgm/Fushi/releases/download/fushi-debug-rolling/fushi-2.8.0-debug.16166-windows-setup.exe",
+      "releaseSequence": 16166,
+      "tag": "v2.8.0-debug.16166+03eb0f9",
+      "version": "2.8.0-debug.16166",
+      "size": 278490430,
+      "sha256": "af3a882cfc0d4591143a00490741b2679fd35546be747e840122c03b82bd0598"
     }
   ]
 }
