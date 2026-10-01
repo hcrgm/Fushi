@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "2.8.0-debug.16385",
-  "tag": "v2.8.0-debug.16385+079b7d8",
+  "version": "2.9.0-debug.16610",
+  "tag": "v2.9.0-debug.16610+4d1eb58",
   "channel": "debug",
   "prerelease": true,
-  "releaseSequence": 16385,
-  "notes": "Automated desktop debug-channel build from develop @ 079b7d8. Push releases are always prerelease and never Latest.",
+  "releaseSequence": 16610,
+  "notes": "Automated desktop debug-channel build from develop @ 4d1eb58. Push releases are always prerelease and never Latest.",
   "assets": [
     {
       "name": "fushi-2.8.0-debug.16385-ios.ipa",
@@ -26,13 +26,13 @@
       "sha256": "bb64b2b8be412b8f4f89d30f721a6c1e1adc3b42d6b497655b5ddc30d00ab77d"
     },
     {
-      "name": "fushi-2.8.0-debug.16385-windows-setup.exe",
-      "browser_download_url": "https://github.com/hcrgm/Fushi/releases/download/fushi-debug-rolling/fushi-2.8.0-debug.16385-windows-setup.exe",
-      "releaseSequence": 16385,
-      "tag": "v2.8.0-debug.16385+079b7d8",
-      "version": "2.8.0-debug.16385",
-      "size": 283233442,
-      "sha256": "53f5d17a2e0ae7735b36e2261ff180a2078c7cd9af4e7d2ae3d30ecac6f89fad"
+      "name": "fushi-2.9.0-debug.16610-windows-setup.exe",
+      "browser_download_url": "https://github.com/hcrgm/Fushi/releases/download/fushi-debug-rolling/fushi-2.9.0-debug.16610-windows-setup.exe",
+      "releaseSequence": 16610,
+      "tag": "v2.9.0-debug.16610+4d1eb58",
+      "version": "2.9.0-debug.16610",
+      "size": 283480207,
+      "sha256": "53e138cb450598cff41d06a02968b7c64987f3c97ed2be793942ca90b3f9cb86"
     }
   ]
 }
