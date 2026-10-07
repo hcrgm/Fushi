@@ -8,6 +8,24 @@
   "notes": "Automated desktop debug-channel build from develop @ 7d6ac51. Push releases are always prerelease and never Latest.",
   "assets": [
     {
+      "name": "fushi-2.10.0-debug.18343-ios.ipa",
+      "browser_download_url": "https://github.com/hcrgm/Fushi/releases/download/fushi-debug-rolling/fushi-2.10.0-debug.18343-ios.ipa",
+      "releaseSequence": 18343,
+      "tag": "v2.10.0-debug.18343+7d6ac51",
+      "version": "2.10.0-debug.18343",
+      "size": 78285440,
+      "sha256": "d22e78f89408c3fdd573714d1647233675d92092e316344e19db4aab132aee79"
+    },
+    {
+      "name": "fushi-2.10.0-debug.18343-macos-arm64.zip",
+      "browser_download_url": "https://github.com/hcrgm/Fushi/releases/download/fushi-debug-rolling/fushi-2.10.0-debug.18343-macos-arm64.zip",
+      "releaseSequence": 18343,
+      "tag": "v2.10.0-debug.18343+7d6ac51",
+      "version": "2.10.0-debug.18343",
+      "size": 241934151,
+      "sha256": "19282e66cefa4bce858e9a2f48a78d0b881d967e1119e9e90b1174eb3dd34b0f"
+    },
+    {
       "name": "fushi-2.10.0-debug.18343-windows-setup.exe",
       "browser_download_url": "https://github.com/hcrgm/Fushi/releases/download/fushi-debug-rolling/fushi-2.10.0-debug.18343-windows-setup.exe",
       "releaseSequence": 18343,
@@ -15,24 +33,6 @@
       "version": "2.10.0-debug.18343",
       "size": 288755597,
       "sha256": "dac58144c1648438fa9f575e60b4e96736700f54cc39dc04fa30230a732f2cb2"
-    },
-    {
-      "name": "fushi-2.9.1-debug.16916-ios.ipa",
-      "browser_download_url": "https://github.com/hcrgm/Fushi/releases/download/fushi-debug-rolling/fushi-2.9.1-debug.16916-ios.ipa",
-      "releaseSequence": 16916,
-      "tag": "v2.9.1-debug.16916+5e2c518",
-      "version": "2.9.1-debug.16916",
-      "size": 74976181,
-      "sha256": "aad9b4f3a93796b98b07c404f7e154dd91ead6c2d6fcbeb10f26062c8761f2e3"
-    },
-    {
-      "name": "fushi-2.9.1-debug.16916-macos.zip",
-      "browser_download_url": "https://github.com/hcrgm/Fushi/releases/download/fushi-debug-rolling/fushi-2.9.1-debug.16916-macos.zip",
-      "releaseSequence": 16916,
-      "tag": "v2.9.1-debug.16916+5e2c518",
-      "version": "2.9.1-debug.16916",
-      "size": 376363580,
-      "sha256": "e5efcb798e7cf18edbbb30948ccaf62fa354c61c5c19c513af73c9b5d89a8555"
     }
   ]
 }
