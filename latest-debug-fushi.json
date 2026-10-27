@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "2.10.0-debug.18343",
-  "tag": "v2.10.0-debug.18343+7d6ac51",
+  "version": "3.0.1-debug.21637",
+  "tag": "v3.0.1-debug.21637+4f66a48",
   "channel": "debug",
   "prerelease": true,
-  "releaseSequence": 18343,
-  "notes": "Automated desktop debug-channel build from develop @ 7d6ac51. Push releases are always prerelease and never Latest.",
+  "releaseSequence": 21637,
+  "notes": "Automated desktop debug-channel build from develop @ 4f66a48. Push releases are always prerelease and never Latest.",
   "assets": [
     {
       "name": "fushi-2.10.0-debug.18343-ios.ipa",
@@ -26,13 +26,13 @@
       "sha256": "19282e66cefa4bce858e9a2f48a78d0b881d967e1119e9e90b1174eb3dd34b0f"
     },
     {
-      "name": "fushi-2.10.0-debug.18343-windows-setup.exe",
-      "browser_download_url": "https://github.com/hcrgm/Fushi/releases/download/fushi-debug-rolling/fushi-2.10.0-debug.18343-windows-setup.exe",
-      "releaseSequence": 18343,
-      "tag": "v2.10.0-debug.18343+7d6ac51",
-      "version": "2.10.0-debug.18343",
-      "size": 288755597,
-      "sha256": "dac58144c1648438fa9f575e60b4e96736700f54cc39dc04fa30230a732f2cb2"
+      "name": "fushi-3.0.1-debug.21637-windows-setup.exe",
+      "browser_download_url": "https://github.com/hcrgm/Fushi/releases/download/fushi-debug-rolling/fushi-3.0.1-debug.21637-windows-setup.exe",
+      "releaseSequence": 21637,
+      "tag": "v3.0.1-debug.21637+4f66a48",
+      "version": "3.0.1-debug.21637",
+      "size": 291383608,
+      "sha256": "82a752871e13df8577f660321c1731806996ad9b209c9c9a797a4a61c8af7af5"
     }
   ]
 }
